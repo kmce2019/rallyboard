@@ -1,1 +1,13 @@
-{ "apps": [] }
+{
+  "apps": [
+    {
+      "id": "sys.clock",
+      "name": "System Clock",
+      "version": "1.0.0",
+      "description": "Simple digital clock.",
+      "tags": ["system","clock"],
+      "url": "https://github.com/kmce2019/ledmatrix-apps/releases/download/v1.0.0/sys.clock-1.0.0.lmapp",
+      "sha256": "69d9cf0279087d0d795b43832703380abcf3a16b3d46b83fc1f4a25fa68ce9c4"
+    }
+  ]
+}
