@@ -1,0 +1,9 @@
+{
+  "id": "sys.clock",
+  "name": "System Clock",
+  "version": "1.0.0",
+  "entrypoint": "app.py",
+  "display_mode": "frames",
+  "frame_size": "128x64",
+  "requirements": ["Pillow"]
+}
