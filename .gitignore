@@ -1,0 +1,4 @@
+dist/
+*.lmapp
+*.sha256
+__pycache__/
